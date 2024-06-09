@@ -18,7 +18,7 @@ This project is an interactive photo gallery that displays animal images with ov
     ```
 2. Navigate to the project directory:
     ```sh
-    cd take-home-challenge
+    cd coahomechallenge photo-gallery
     ```
 
  Usage
